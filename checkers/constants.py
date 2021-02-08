@@ -1,6 +1,6 @@
 import pygame
 
-#Display shape
+# Display shape
 WIDTH = 800
 HEIGHT = 800
 
@@ -9,9 +9,11 @@ ROWS = 8
 COLS = 8
 SQUARE_SIZE = WIDTH // COLS
 
-# RGB colour codes 
-RED =  (255, 0, 0)
+# RGB colour codes
+RED = (255, 0, 0)
 GREEN = (255, 0, 0)
 BLUE = (255, 0, 0)
 WHITE = (255, 255, 255)
-BLACK = (0, 0, 0) 
+BLACK = (0, 0, 0)
+BOARD_BEIGE = (181, 136, 99)
+BOARD_BROWN = (240, 217, 181)
