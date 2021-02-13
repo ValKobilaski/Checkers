@@ -18,3 +18,5 @@ BLACK = (0, 0, 0)
 GREY = (128, 128, 128)
 BOARD_BEIGE = (181, 136, 99)
 BOARD_BROWN = (240, 217, 181)
+
+CROWN = pygame.transform.scale(pygame.image.load("checkers/assets/crown.png"), (45, 25))
